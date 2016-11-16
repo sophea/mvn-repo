@@ -3,10 +3,11 @@
   <groupId>com.sma.security</groupId>
   <artifactId>sm-user-security</artifactId>
   <versioning>
-    <release>1.4</release>
+    <release>1.5</release>
     <versions>
       <version>1.4</version>
+      <version>1.5</version>
     </versions>
-    <lastUpdated>20161110075458</lastUpdated>
+    <lastUpdated>20161116063734</lastUpdated>
   </versioning>
 </metadata>
