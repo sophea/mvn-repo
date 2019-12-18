@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.sma.security</groupId>
+  <artifactId>sm-user-security</artifactId>
+  <version>1.54-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20191105.142557</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20191105142557</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.54-20191105.142557-1</value>
+        <updated>20191105142557</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.54-20191105.142557-1</value>
+        <updated>20191105142557</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
